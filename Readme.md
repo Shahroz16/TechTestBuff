@@ -1,5 +1,7 @@
 # Buff SDK with sample activity 
 [Screenshot-1601522844.png](https://postimg.cc/TLsLP5S2)
+ <img src="screenshot/buff.png" height="400" alt="Screenshot"/>
+
 
 ## Structure
 There are 2 major components involved here, a sample application and Buff SDK library.
