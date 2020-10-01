@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Buff App</string>
+    <string name="display_name_format">%1$s %2$s</string>
+</resources>
